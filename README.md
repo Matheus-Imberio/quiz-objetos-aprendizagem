@@ -26,7 +26,7 @@ Ao finalizar este quiz, o estudante será capaz de:
 
 Para visualizar a estrutura conceitual e os relacionamentos entre os temas abordados neste objeto de aprendizagem, consulte o mapa conceitual disponível em:
 
-**Link do Mapa Conceitual**: [https://cmapscloud.ihmc.us:443/rid=21XSBGVWZ-HCVPB0-BNQHXX](https://cmapscloud.ihmc.us:443/rid=21XSBGVWZ-HCVPB0-BNQHXX)
+**Link do Mapa Conceitual ja revisado e arrumado**: [https://cmapscloud.ihmc.us:443/rid=21XSBGVWZ-HCVPB0-BNQHXX](https://cmapscloud.ihmc.us:443/rid=21XSBGVWZ-HCVPB0-BNQHXX)
 
 ## 📖 Modelo Instrucional
 
