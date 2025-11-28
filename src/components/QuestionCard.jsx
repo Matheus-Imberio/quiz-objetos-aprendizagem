@@ -24,7 +24,7 @@ const QuestionCard = ({
               Questão {currentQuestionIndex + 1} de {totalQuestions}
             </span>
             <span className="text-sm font-semibold text-gray-600">
-              Pontuação: {score}/{currentQuestionIndex}
+              Pontuação: {score}/{currentQuestionIndex + 1}
             </span>
           </div>
           <div className="w-full bg-gray-200 rounded-full h-2">
