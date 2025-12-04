@@ -36,6 +36,23 @@ O modelo instrucional detalhando a metodologia de ensino, estratégias pedagógi
 
 ---
 
+## 📘 Plano de Aula
+
+O plano de aula completo para utilização deste objeto de aprendizagem em sala de aula está disponível em:
+
+**📄 [PLANO_DE_AULA.md](PLANO_DE_AULA.md)** (localizado na raiz do projeto)
+
+O plano de aula inclui:
+- Objetivos de aprendizagem
+- Estrutura detalhada da aula (50 minutos)
+- Estratégias metodológicas
+- Critérios de avaliação
+- Instruções para gravação do vídeo tutorial
+- Atividades complementares
+- Adaptações para diferentes perfis de estudantes
+
+---
+
 ## 🚀 Como Utilizar
 
 1. Clone este repositório
