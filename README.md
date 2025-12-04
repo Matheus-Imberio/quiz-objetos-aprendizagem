@@ -44,11 +44,10 @@ O plano de aula completo para utilização deste objeto de aprendizagem em sala 
 
 O plano de aula inclui:
 - Objetivos de aprendizagem
-- Estrutura detalhada da aula (50 minutos)
+- Estrutura detalhada da aula (25/35 minutos)
 - Estratégias metodológicas
 - Critérios de avaliação
 - Instruções para gravação do vídeo tutorial
-- Atividades complementares
 - Adaptações para diferentes perfis de estudantes
 
 ---
