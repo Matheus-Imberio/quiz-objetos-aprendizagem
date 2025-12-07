@@ -51,14 +51,17 @@ O plano de aula inclui:
 - Adaptações para diferentes perfis de estudantes
 
 ---
+## Vídeo Aula
 
+Segue o link do vídeo aula do nosso Objeto de aprendizagem no youtube:
+
+**[VÍDEO AULA](https://youtu.be/z3jOG5Du_CM?si=adrPb_VUhFq2T-Hw)**
+
+---
 ## 🚀 Como Utilizar
 
 1. Clone este repositório
-2. Instale as dependências: `npm install`
-3. Execute o projeto: `npm run dev`
+2. Instale as dependências: `pnpm install`
+3. Execute o projeto: `pnpm run dev`
 4. Acesse o quiz e comece a praticar!
 
-## 📝 Licença
-
-Este projeto está sob a licença especificada no arquivo LICENSE.
