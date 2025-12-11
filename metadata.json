@@ -1,0 +1,290 @@
+{
+  "lom": {
+    "general": {
+      "identifier": {
+        "catalog": "GitHub",
+        "entry": "learningspace-utfpr-cm/quiz-objetos-aprendizagem"
+      },
+      "title": {
+        "string": "Quiz Interativo de Programação Python",
+        "language": "pt-BR"
+      },
+      "language": ["pt-BR"],
+      "description": {
+        "string": "Quiz interativo desenvolvido como objeto de aprendizagem para auxiliar no processo de ensino e aprendizado de programação Python. O quiz aborda estruturas condicionais (if, else, elif), operadores de comparação e aritméticos, estruturas de repetição (for, while), função range(), operadores lógicos, estruturas aninhadas e controle de fluxo com break. Contém 15 questões com feedback imediato para cada resposta, permitindo que o estudante compreenda seus erros e acertos durante a prática.",
+        "language": "pt-BR"
+      },
+      "keyword": [
+        { "string": "Python", "language": "pt-BR" },
+        { "string": "programação", "language": "pt-BR" },
+        { "string": "estruturas condicionais", "language": "pt-BR" },
+        { "string": "estruturas de repetição", "language": "pt-BR" },
+        { "string": "operadores", "language": "pt-BR" },
+        { "string": "quiz interativo", "language": "pt-BR" },
+        { "string": "objeto de aprendizagem", "language": "pt-BR" },
+        { "string": "iniciantes", "language": "pt-BR" },
+        { "string": "laços for while", "language": "pt-BR" },
+        { "string": "if else elif", "language": "pt-BR" }
+      ],
+      "coverage": {
+        "string": "Fundamentos de programação Python para iniciantes",
+        "language": "pt-BR"
+      },
+      "structure": {
+        "source": "LOMv1.0",
+        "value": "atomic"
+      },
+      "aggregationLevel": {
+        "source": "LOMv1.0",
+        "value": "2"
+      }
+    },
+    "lifeCycle": {
+      "version": {
+        "string": "1.0.0",
+        "language": "pt-BR"
+      },
+      "status": {
+        "source": "LOMv1.0",
+        "value": "final"
+      },
+      "contribute": [
+        {
+          "role": {
+            "source": "LOMv1.0",
+            "value": "author"
+          },
+          "entity": ["Matheus Imberio", "Pedro Conrado"],
+          "date": {
+            "dateTime": "2025-12-04"
+          }
+        }
+      ]
+    },
+    "metaMetadata": {
+      "identifier": {
+        "catalog": "GitHub",
+        "entry": "learningspace-utfpr-cm/quiz-objetos-aprendizagem/metadata.json"
+      },
+      "contribute": [
+        {
+          "role": {
+            "source": "LOMv1.0",
+            "value": "creator"
+          },
+          "entity": ["Matheus Imberio", "Pedro Conrado"],
+          "date": {
+            "dateTime": "2025-12-11"
+          }
+        }
+      ],
+      "metadataSchema": ["LOMv1.0"],
+      "language": "pt-BR"
+    },
+    "technical": {
+      "format": ["text/html", "application/javascript", "text/css"],
+      "size": "500000",
+      "location": "https://github.com/learningspace-utfpr-cm/quiz-objetos-aprendizagem",
+      "requirement": [
+        {
+          "orComposite": [
+            {
+              "type": {
+                "source": "LOMv1.0",
+                "value": "browser"
+              },
+              "name": {
+                "source": "LOMv1.0",
+                "value": "any"
+              },
+              "minimumVersion": "Navegador moderno com suporte a ES6+"
+            }
+          ]
+        }
+      ],
+      "installationRemarks": {
+        "string": "Clone o repositório, execute 'pnpm install' para instalar dependências e 'pnpm run dev' para executar o projeto localmente.",
+        "language": "pt-BR"
+      },
+      "otherPlatformRequirements": {
+        "string": "Node.js versão 18 ou superior. Conexão com internet para instalação de dependências.",
+        "language": "pt-BR"
+      }
+    },
+    "educational": {
+      "interactivityType": {
+        "source": "LOMv1.0",
+        "value": "active"
+      },
+      "learningResourceType": [
+        {
+          "source": "LOMv1.0",
+          "value": "exercise"
+        },
+        {
+          "source": "LOMv1.0",
+          "value": "self assessment"
+        }
+      ],
+      "interactivityLevel": {
+        "source": "LOMv1.0",
+        "value": "high"
+      },
+      "semanticDensity": {
+        "source": "LOMv1.0",
+        "value": "medium"
+      },
+      "intendedEndUserRole": [
+        {
+          "source": "LOMv1.0",
+          "value": "learner"
+        }
+      ],
+      "context": [
+        {
+          "source": "LOMv1.0",
+          "value": "higher education"
+        },
+        {
+          "source": "LOMv1.0",
+          "value": "training"
+        }
+      ],
+      "typicalAgeRange": {
+        "string": "17-25",
+        "language": "pt-BR"
+      },
+      "difficulty": {
+        "source": "LOMv1.0",
+        "value": "easy"
+      },
+      "typicalLearningTime": {
+        "duration": "PT25M"
+      },
+      "description": {
+        "string": "Quiz interativo com 15 questões sobre fundamentos de Python. O estudante responde às questões e recebe feedback imediato, permitindo identificar conceitos que precisam de reforço. Ideal para revisão e consolidação de conhecimentos sobre estruturas condicionais e de repetição.",
+        "language": "pt-BR"
+      },
+      "language": ["pt-BR"]
+    },
+    "rights": {
+      "cost": {
+        "source": "LOMv1.0",
+        "value": "no"
+      },
+      "copyrightAndOtherRestrictions": {
+        "source": "LOMv1.0",
+        "value": "yes"
+      },
+      "description": {
+        "string": "Este trabalho está licenciado sob a Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0). Você pode compartilhar e adaptar este material, desde que dê o crédito apropriado e distribua suas contribuições sob a mesma licença.",
+        "language": "pt-BR"
+      }
+    },
+    "relation": [
+      {
+        "kind": {
+          "source": "LOMv1.0",
+          "value": "references"
+        },
+        "resource": {
+          "identifier": {
+            "catalog": "CmapCloud",
+            "entry": "https://cmapscloud.ihmc.us:443/rid=21XSBGVWZ-HCVPB0-BNQHXX"
+          },
+          "description": {
+            "string": "Mapa conceitual do objeto de aprendizagem",
+            "language": "pt-BR"
+          }
+        }
+      },
+      {
+        "kind": {
+          "source": "LOMv1.0",
+          "value": "references"
+        },
+        "resource": {
+          "identifier": {
+            "catalog": "YouTube",
+            "entry": "https://youtu.be/z3jOG5Du_CM"
+          },
+          "description": {
+            "string": "Vídeo tutorial do objeto de aprendizagem",
+            "language": "pt-BR"
+          }
+        }
+      }
+    ],
+    "annotation": [
+      {
+        "entity": "Equipe de desenvolvimento",
+        "date": {
+          "dateTime": "2025-12-04"
+        },
+        "description": {
+          "string": "Objeto de aprendizagem desenvolvido como parte do curso de Objetos de Aprendizagem na UTFPR - Campus Campo Mourão.",
+          "language": "pt-BR"
+        }
+      }
+    ],
+    "classification": [
+      {
+        "purpose": {
+          "source": "LOMv1.0",
+          "value": "discipline"
+        },
+        "taxonPath": [
+          {
+            "source": {
+              "string": "Ciência da Computação",
+              "language": "pt-BR"
+            },
+            "taxon": [
+              {
+                "id": "1",
+                "entry": {
+                  "string": "Programação",
+                  "language": "pt-BR"
+                }
+              },
+              {
+                "id": "1.1",
+                "entry": {
+                  "string": "Python",
+                  "language": "pt-BR"
+                }
+              },
+              {
+                "id": "1.1.1",
+                "entry": {
+                  "string": "Estruturas de Controle",
+                  "language": "pt-BR"
+                }
+              }
+            ]
+          }
+        ],
+        "description": {
+          "string": "Fundamentos de programação Python com foco em estruturas condicionais e de repetição",
+          "language": "pt-BR"
+        },
+        "keyword": [
+          { "string": "programação", "language": "pt-BR" },
+          { "string": "Python", "language": "pt-BR" },
+          { "string": "estruturas de controle", "language": "pt-BR" }
+        ]
+      },
+      {
+        "purpose": {
+          "source": "LOMv1.0",
+          "value": "educational objective"
+        },
+        "description": {
+          "string": "Consolidar conhecimentos sobre estruturas condicionais (if, else, elif), operadores de comparação e aritméticos, estruturas de repetição (for, while), função range(), operadores lógicos e controle de fluxo.",
+          "language": "pt-BR"
+        }
+      }
+    ]
+  }
+}
+

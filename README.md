@@ -65,3 +65,20 @@ Segue o link do vídeo aula do nosso Objeto de aprendizagem no youtube:
 3. Execute o projeto: `pnpm run dev`
 4. Acesse o quiz e comece a praticar!
 
+---
+
+## 📄 Metadados LOM
+
+Este objeto de aprendizagem segue o padrão **IEEE LOM (Learning Object Metadata)** para catalogação e interoperabilidade. Os metadados completos estão disponíveis no arquivo:
+
+**📋 [metadata.json](metadata.json)** (localizado na raiz do projeto)
+
+O arquivo inclui informações sobre:
+- **General**: Identificação, título, descrição, palavras-chave e idioma
+- **LifeCycle**: Versão, status e contribuidores
+- **Technical**: Requisitos técnicos e instruções de instalação
+- **Educational**: Tipo de interatividade, público-alvo, contexto educacional e tempo de aprendizagem
+- **Rights**: Informações de licenciamento
+- **Classification**: Taxonomia e objetivos educacionais
+
+
