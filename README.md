@@ -32,7 +32,7 @@ Para visualizar a estrutura conceitual e os relacionamentos entre os temas abord
 
 O modelo instrucional detalhando a metodologia de ensino, estratégias pedagógicas e organização didática deste objeto de aprendizagem pode ser visualizado abaixo:
 
-![Modelo Instrucional](image_modelo_instrucional.png)
+![Modelo Instrucional](instrucional.png)
 
 ---
 
