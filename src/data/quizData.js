@@ -39,7 +39,7 @@ export const questions = [
     pergunta: "Qual será o resultado?\n\na = 5\nb = 2\nprint(a // b)",
     respostaCorreta: "2",
     alternativas: ['2.5', '2', '3', 'Erro'],
-    feedback: "O operador // faz divisão inteira, descartando o resto."
+    feedback: "O operador // faz divisão de piso (floor division), retornando o maior inteiro menor ou igual ao resultado da divisão."
   },
   {
     pergunta: "Qual saída este código gera?\n\ncount = 0\nwhile count < 3:\n    print(count)\n    count += 1",
