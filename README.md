@@ -8,6 +8,10 @@ Este projeto consiste em um quiz interativo desenvolvido como objeto de aprendiz
 
 Este quiz é direcionado para **iniciantes no curso de programação**, que estão dando seus primeiros passos no aprendizado de programação e precisam consolidar conceitos fundamentais da linguagem Python.
 
+## 📋 Projeto com licença MIT
+
+Este projeto possue a licença de uso MIT
+
 ## 📚 Requisitos de Aprendizagem
 
 Ao finalizar este quiz, o estudante será capaz de:
